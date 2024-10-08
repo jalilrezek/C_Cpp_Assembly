@@ -1,0 +1,659 @@
+commit eabdfe6ba8d7b9e3a7f9a9a652985db099a9caf3
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Fri Apr 26 22:20:03 2024 -0400
+
+    jalil final checks
+
+commit b26af9aec315b858d05db38b03a39e382f33cc36
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 19:48:14 2024 -0400
+
+    Updated gitlog
+
+commit a249f45a2345cb99f3f1e8d3f76033072f18939c
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 19:41:21 2024 -0400
+
+    Updated zip file
+
+commit d919bb14fd00b6c667057ce4f0e9bcea924f8d4d
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 19:39:42 2024 -0400
+
+    Updated gitlog and files
+
+commit 52d16eece732819001fca022a2737c36b363e142
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 19:38:48 2024 -0400
+
+    Updated dir
+
+commit f41c3d42888078c18dab1afe27fe6f67011130aa
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 19:37:12 2024 -0400
+
+    Updated dir finalV2
+
+commit e4b9b4d9b98304e0783b95dc479ea576d4ec0dcd
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Fri Apr 26 16:24:41 2024 -0400
+
+    comments added
+
+commit e243ba0e7aad1aff50600153e9a4a0f4a413ebb4
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 13:15:24 2024 -0400
+
+    added zip
+
+commit 82a565c4e521fb70f8042a709487dd4312090ced
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 13:12:55 2024 -0400
+
+    finished readme
+
+commit 376cefcf09271a466ece6d339c170ca43d6f5b5c
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 13:09:30 2024 -0400
+
+    updated readme
+
+commit 96f34080a4dbdadf4a4e47de6ca3392c533a89bf
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Fri Apr 26 13:07:02 2024 -0400
+
+    finished readme
+
+commit b1604db59a071128ef1783c670a0300d659d4912
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 13:01:44 2024 -0400
+
+    updated_point_value
+
+commit 3f863f3363bd9dacd52bfb730a7bfb0a5ad459ed
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Fri Apr 26 12:59:46 2024 -0400
+
+    MakeFile update
+
+commit d68930cfe0e803c01e8f6214631f8fc1b8dab26d
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Fri Apr 26 12:57:28 2024 -0400
+
+    readme design portion done in finalV2
+
+commit 356b930b4c5fe728f134a60c8523454eea6c2e5d
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Fri Apr 26 12:56:44 2024 -0400
+
+    README design portion done
+
+commit 98a8f80826f30504e12759e4bd62427abf8e062d
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Fri Apr 26 12:54:54 2024 -0400
+
+    version to submit
+
+commit 43c94b8b6a2f2eda4c159b87c93fad2ea5743d12
+Merge: 26a8b75 5b80c5d
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 12:46:29 2024 -0400
+
+    working now
+
+commit 5b80c5de451d1ae7acfcfd8a304c675c765f53e0
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Fri Apr 26 12:38:58 2024 -0400
+
+    now...it works
+
+commit 26a8b75ff4cfdd324b118cdf08d9d1456ca0adfa
+Merge: 6be3526 6cbb54f
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 12:16:13 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-li409-asridha7-jrezek1
+
+commit 6be3526a272f6e01e200af4180449c449f2c0e01
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 26 12:15:47 2024 -0400
+
+    Updated game.cpp
+
+commit 6cbb54f9eb61cba5d31f6d623d902579fa7efaa0
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Fri Apr 26 12:07:24 2024 -0400
+
+    updated
+
+commit a3ca17f839a9a662d067fe8fc6c0ae32263dae7d
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Fri Apr 26 12:06:58 2024 -0400
+
+    works
+
+commit b3e16a224eb8f5074d9659f169cda295cd1ef613
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Thu Apr 25 00:32:59 2024 -0400
+
+    unnecessary functions removed
+
+commit 8e17ebe11256d6873194bec77c855ec382b16255
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Thu Apr 25 00:18:13 2024 -0400
+
+    passes tests
+
+commit d97dc5c8f6bb1816dc0a4d6d38c7bbf7836b005d
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Thu Apr 25 00:00:51 2024 -0400
+
+    no .o files commited
+
+commit e19bd4eaa3d29773001eb2de5f5df958f92fc651
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 23:59:14 2024 -0400
+
+    mystery.h working
+
+commit dce0186dba0015c6eddf5e7450435ea68a83ede4
+Author: JHoffmann12 <116284093+JHoffmann12@users.noreply.github.com>
+Date:   Wed Apr 24 23:31:21 2024 -0400
+
+    Delete mystery_test directory
+
+commit 8ea75f841c885d8a86f2fb33ed2777ae3828bfb6
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 23:28:31 2024 -0400
+
+    minor updates
+
+commit 15997e65c789cfe954ba86041e7408665889eb65
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 23:28:11 2024 -0400
+
+    mystery_test works
+
+commit 30fa764bc92fc00e71358c8e1b7158d8de866816
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 23:26:40 2024 -0400
+
+    Myster file tested, adjustments made
+
+commit f8fb7128dfb3bc66df73a5fc361c115e87a2c8a7
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 21:20:11 2024 -0400
+
+    Display Updated
+
+commit ecea92b0daa63fe4f27909a91ee7aac65eff43b7
+Author: Sunny Li <jli409@jh.edu>
+Date:   Wed Apr 24 14:14:45 2024 -0400
+
+    add chessUML.pdf
+
+commit e694e33d544ca07d8372831ea6811e5166dc93a1
+Author: Sunny Li <jli409@jh.edu>
+Date:   Wed Apr 24 13:59:14 2024 -0400
+
+    merge pawn to fix error with valid moves
+
+commit db14807bcdd7e986b7de2691f3d3d2ae2b5b5bb5
+Author: Sunny Li <jli409@jh.edu>
+Date:   Wed Apr 24 13:27:07 2024 -0400
+
+    combine files and fix valid moves
+
+commit 56a1b89d27e9389f9c3a246235f67a23c234f16a
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Wed Apr 24 12:51:06 2024 -0400
+
+    promotion now passes pre_promotion.txt
+
+commit 6318caacbc2852c6da702a59775fd3f292daaa38
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 06:36:47 2024 -0400
+
+    comments
+
+commit 2a54edcdb153e995d8f1fadd6f06af8ad87d97b3
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 06:34:29 2024 -0400
+
+    Seg Fault
+
+commit a1855b366c2503c4680efa03341fb6b12f7eae33
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 06:22:44 2024 -0400
+
+    updated
+
+commit a8c23dd2e57c462f757416ae352e536ffc4c6349
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 06:21:10 2024 -0400
+
+    Pawn Promotion almost done
+
+commit 63f782e6f5a989f6feb5d1274fe5254a1eebf30d
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Wed Apr 24 04:13:04 2024 -0400
+
+    restructured repo
+
+commit ba38b20447faea7dc78fc296fac3e4fe08837fab
+Author: Sunny Li <jli409@jh.edu>
+Date:   Tue Apr 23 16:48:19 2024 -0400
+
+    edit output error in exception handling
+
+commit 0711cc6f2cd1d98de1ffe4ede2f0a6a78b0ac6f2
+Author: Sunny Li <jli409@jh.edu>
+Date:   Tue Apr 23 16:45:18 2024 -0400
+
+    merge changes in pawn to fix mak
+
+commit 816c929c420f66fbc94385575a4e36188f141421
+Author: Sunny Li <jli409@jh.edu>
+Date:   Tue Apr 23 16:16:26 2024 -0400
+
+    edit program output for exception hadnling
+
+commit e6857a2bc73edb0e452ae492467bfa07820eb4c0
+Author: Sunny Li <jli409@jh.edu>
+Date:   Tue Apr 23 13:54:01 2024 -0400
+
+    delete uneeded files
+
+commit 07e30d42d1af6df688f5ba87fa2a88bab6a18520
+Merge: 7dbda45 0f665e0
+Author: Sunny Li <jli409@jh.edu>
+Date:   Tue Apr 23 13:53:35 2024 -0400
+
+    edit files
+
+commit 7dbda459fe8f6cc584017531ff77146f72ddcf35
+Author: Sunny Li <jli409@jh.edu>
+Date:   Tue Apr 23 13:00:49 2024 -0400
+
+    edit files
+
+commit 0f665e06270cbf4999785905a33c5426b283ec53
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 19:16:16 2024 -0400
+
+    fixed pawn movement
+
+commit 19b61442df65ccbb80dafd7abe8b8886638f9245
+Author: Sunny Li <jli409@jh.edu>
+Date:   Mon Apr 22 18:51:06 2024 -0400
+
+    fix problem of pawn capturing and pawn legal move in game.cpp and pawn.cpp
+
+commit d4fe8a8c781ca8d941405100119afea3318ed8ee
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 17:54:34 2024 -0400
+
+    jalil folder updated with Amitesh fix of reading w or b
+
+commit 4052fbb37b204530919589ebf8f8e400ce6155cc
+Author: Asridh <asridha7@jh.edu>
+Date:   Mon Apr 22 17:31:59 2024 -0400
+
+    Updated load
+
+commit 6ca53bef9dd3bd7ad20f6cdc3d6853d16e2cca14
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 17:18:06 2024 -0400
+
+    add
+
+commit 5880007ac7ba2a18b60ce1e0d0ce590766c2cf5e
+Merge: 4de5e86 62015c6
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 13:17:28 2024 -0400
+
+    fixed load memory issue
+
+commit 4de5e86e6545b2b41e6505fbb8fd59ce8b71e895
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 13:16:02 2024 -0400
+
+    fixed memory issue with load. Also stalemate.txt now fails instantly as desired
+
+commit 62015c6867aa0a98af9a53fc45631557c8d01116
+Author: JHoffmann12 <jakesamuelshoffmann@gmail.com>
+Date:   Mon Apr 22 12:50:08 2024 -0400
+
+    making my folder
+
+commit 42476fb8c4f6dc91a25374c04a0ae6d888a66a55
+Author: Asridh <asridha7@jh.edu>
+Date:   Mon Apr 22 11:34:38 2024 -0400
+
+    Updated load and save
+
+commit c890671ac2697781ac6fd6b207c2fae6743e6c41
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 03:25:38 2024 -0400
+
+    check was causing instant checkmate because didn't actually try a given move before seeing if still in check. Fixed the issue.
+
+commit 3149beca5b159bf0d69fa74dfadb0e3ca3e40929
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 03:24:39 2024 -0400
+
+    was checking in_check before actually testing the move on a copy of the board. So would always be in check. Fixed it though.
+
+commit 76481887cdbdf587fc8fb67e572da96e492bf057
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 00:53:53 2024 -0400
+
+    jalil updated iterator
+
+commit 2a6e56175dfff63773e629f5b4bb49f5abfcf566
+Merge: d84c0a6 31720af
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 00:22:15 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-li409-asridha7-jrezek1
+
+commit d84c0a650990336bee76ac332f12d5071686433b
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Mon Apr 22 00:12:36 2024 -0400
+
+    fixed the iterator so it just iterates over the sparse map
+
+commit 31720afccbefe8bedde20b30977ebdffa0af9781
+Author: Asridh <asridha7@jh.edu>
+Date:   Sun Apr 21 23:23:22 2024 -0400
+
+    Added amit dir
+
+commit aff32f4c812a193964e56e705f485131534084fb
+Author: Asridh <asridha7@jh.edu>
+Date:   Sun Apr 21 23:20:00 2024 -0400
+
+    load and save done
+
+commit 36943f38357b1a110ef9af351dbf8e2eedc96d68
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 20:29:13 2024 -0400
+
+    movement fixed. Error in the checkHoriz and checkDiag movement functions (started at start pos & so always say there's collision)
+
+commit 6d7878ac453d9575413ac3bdc249c3e4c28b2b13
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 20:27:57 2024 -0400
+
+    movement fixed. Error in the checkHoriz and checkDiag movement functions (started at start pos & so always say there's collision)
+
+commit 26c5f509043de6bf142c752692ce6598914e2275
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 18:37:35 2024 -0400
+
+    point_value memory leak from get_occ() fixed
+
+commit bf6d71cf4cbb11b07c97d593d0d7f787e3c48234
+Author: Asridh <asridha7@jh.edu>
+Date:   Sun Apr 21 17:05:03 2024 -0400
+
+    Updated point value
+
+commit 252e921d7c212fac2ba829e33ac58c2f06012337
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 15:03:45 2024 -0400
+
+    minor change
+
+commit 0e68b03f05de673c0f42bfd9ff3f2b55229cf98c
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 14:58:44 2024 -0400
+
+    checkmate now uses same logic as stalemate except instead of current player being NOT in check, current player IS in check
+
+commit f6c3f718a114c95307b1456cb9d2a779f916239c
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 05:17:03 2024 -0400
+
+    exception handling added to final folder's main.cpp. But it still doesnt work
+
+commit 2a43749d9dceb9ba1b09d780e1cc0195a7fc9217
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 05:15:41 2024 -0400
+
+    some exception handling added to main but it's not working
+
+commit 8445730877699aedcb7293f562a2c9af99298e39
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 04:23:53 2024 -0400
+
+    need help fixing memory issues and game functions
+
+commit f248112b2f3b5310ab6949a5e53974eee0b30bff
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 04:19:39 2024 -0400
+
+    some memory leak issues tackled but lots more when exceptions thrown. Also moving doesn't seem to work. Is the board configured properly?
+
+commit d6528e2a2a5a8bc74d3a5e876dade5acda6e29e3
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 01:23:55 2024 -0400
+
+    added iterator, game implementation to final folder
+
+commit 1a46838b352e726fd4b9a3c0f16321d09f3c758a
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sun Apr 21 01:18:53 2024 -0400
+
+    finished initial implementation of game functions, and also added an iterator, in jalil
+
+commit f376f111883668243834f53b9d9ae9d0183e03d5
+Merge: 0a5eb47 dac10e3
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 23:34:06 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-li409-asridha7-jrezek1
+
+commit 0a5eb47c998333515141f1c3fe06d5f295a53753
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 23:33:50 2024 -0400
+
+    still need to write iterator but in_check, in_mate, in_stalemate have some implementation
+
+commit dac10e348b3a006811bd7ea447bab9138c0b0657
+Author: Sunny Li <jli409@jh.edu>
+Date:   Sat Apr 20 20:22:56 2024 -0400
+
+    fix errors in game.cpp that relate to iterator
+
+commit 46046795dc596335ab6056c3f3a8221a8804d31a
+Author: Sunny Li <jli409@jh.edu>
+Date:   Sat Apr 20 20:07:31 2024 -0400
+
+    write iterator
+
+commit 42b9e6c883bd220f6e5b5bc65e3b338d29e43287
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 19:57:30 2024 -0400
+
+    Updated game
+
+commit c2910c969ed3af093b94c2c2af6840505ecf1724
+Merge: e5f60a5 2b0dcb3
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 19:51:38 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-li409-asridha7-jrezek1
+
+commit e5f60a54bf813aee321c71190d2811d3ba0b7757
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 19:45:02 2024 -0400
+
+    check
+
+commit 2b0dcb32cb0a4703fedd153d9875c1df39f636c5
+Author: Asridh <asridha7@jh.edu>
+Date:   Sat Apr 20 19:43:40 2024 -0400
+
+    Cleaned Push
+
+commit 38b110ab29629b04b3c4b5f65e246e1332ba629b
+Author: Asridh <asridha7@jh.edu>
+Date:   Sat Apr 20 19:43:10 2024 -0400
+
+    Point value
+
+commit 8288d93bf820c04ccab48e9b07cfb4e0d5f7334f
+Merge: 48d544a 905022e
+Author: Asridh <asridha7@jh.edu>
+Date:   Sat Apr 20 19:40:57 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-li409-asridha7-jrezek1
+
+commit 48d544a3f683d8fc3b62e5aa72b78e6468bfb180
+Author: Asridh <asridha7@jh.edu>
+Date:   Sat Apr 20 19:40:36 2024 -0400
+
+    Point value
+
+commit ba84971d07300c121b3678a5866275f613a8d6f9
+Author: Asridh <asridha7@jh.edu>
+Date:   Sat Apr 20 19:38:18 2024 -0400
+
+    Point value
+
+commit 905022e521b88e5bdcc0dea8ffe66813d3037a44
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 19:13:00 2024 -0400
+
+    check started without iterator
+
+commit d348ff98c949cda6dd0d33fda5aaa81a60be9a8e
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 18:50:38 2024 -0400
+
+    minor correction
+
+commit ed0f8ca6f601e924d51f2de9f29be46b95b510d6
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 18:43:11 2024 -0400
+
+    fixed move_piece
+
+commit cb25ed82ef0b31ec6e3a9298c59c78d5f1a25633
+Author: Asridh <asridha7@jh.edu>
+Date:   Sat Apr 20 18:38:33 2024 -0400
+
+    Compilable
+
+commit e2772a5ba799f4cf8d0031065bef1ff1143392b5
+Author: Asridh <asridha7@jh.edu>
+Date:   Sat Apr 20 18:31:09 2024 -0400
+
+    Working Display
+
+commit 6db4f243a3e9241bb3cae73cabf95a1e9db53e64
+Merge: cbd9178 42fb2ef
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 18:25:08 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-li409-asridha7-jrezek1
+
+commit cbd917821ba43bbef14feb75da5ce5b780ee6a5f
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 18:24:54 2024 -0400
+
+    d
+
+commit 42fb2efe4faedc02db5e70efb2f391e27ed16a9f
+Merge: 1cf5d7f 324d6e8
+Author: Sunny Li <jli409@jh.edu>
+Date:   Sat Apr 20 18:21:30 2024 -0400
+
+    finish all exception handling in game
+
+commit 1cf5d7f406601b87d8fc7263bfe7fa975990c262
+Merge: 6cc43c1 45ccdf0
+Author: Sunny Li <jli409@jh.edu>
+Date:   Sat Apr 20 18:06:19 2024 -0400
+
+    exceptions handling
+
+commit 324d6e8970ab4be32b0fe7a019690c010b29b66e
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 18:05:53 2024 -0400
+
+    minor fix
+
+commit 6cc43c10e6cae51398b21502bc60f5037c7ba22b
+Author: Sunny Li <jli409@jh.edu>
+Date:   Sat Apr 20 17:57:53 2024 -0400
+
+    exceptions.h for different exceptions handling
+
+commit 45ccdf02c0ec7893b745f06be60a701d6e5bb52a
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 17:53:57 2024 -0400
+
+    checking for pieces in the way
+
+commit 099eb5198d3eacd88459a5a07fdbcc9e72bc7250
+Merge: db75751 fb1cbeb
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 16:18:17 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-li409-asridha7-jrezek1
+
+commit db75751677142f687f299b42d86bfec5de16d6eb
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 16:15:54 2024 -0400
+
+    fixed legal move shape
+
+commit fb1cbeb98bc916e896e3fb86c9113e7c3694a4aa
+Author: Sunny Li <jli409@jh.edu>
+Date:   Sat Apr 20 16:13:57 2024 -0400
+
+    add an iterator
+
+commit 59157466c4f347775e8eb7e0c7c317dcd274e7f1
+Author: Sunny Li <jli409@jh.edu>
+Date:   Sat Apr 20 16:09:28 2024 -0400
+
+    try and catch for error handling in main
+
+commit 4beda1fa88caae2e097d6df3bbb0926272614e47
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 15:08:22 2024 -0400
+
+    progress on make_move
+
+commit 1266d3bc972a822c13dd2974894f8c45d15a698a
+Author: Jalil Rezek <jrezek1@jh.edu>
+Date:   Sat Apr 20 13:06:18 2024 -0400
+
+    worked on legal_move_shape for all pieces
+
+commit 6cfed762fdfb840bdee0d0e33308ba927286bd81
+Author: Asridh <asridha7@jh.edu>
+Date:   Fri Apr 19 13:09:31 2024 -0400
+
+    updated readme
+
+commit 7765e5946d3535aff68998ddd052c3d8fab39671
+Author: Sunny Li <jli409@jh.edu>
+Date:   Fri Apr 19 13:08:28 2024 -0400
+
+    create README
+
+commit b40713cd13c4b8dd55aebfe34967583d698c1cad
+Author: Sunny Li <jli409@jh.edu>
+Date:   Fri Apr 19 12:39:26 2024 -0400
+
+    wrote some functions for bishop, queen, and board
+
+commit c411b080032d5eec6c2d6b25c3cc49d678d76096
+Author: Sunny Li <jli409@jh.edu>
+Date:   Fri Apr 19 12:31:09 2024 -0400
+
+    Initialized with the starter codes
