@@ -1,4 +1,4 @@
-DIRECTIONS
+# DIRECTIONS
 
 The most important files are in the "assembly_implementation", "C_implementation", and "unit_tests" folders. 
 

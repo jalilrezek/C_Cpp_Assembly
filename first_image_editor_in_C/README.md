@@ -1,4 +1,4 @@
-DIRECTIONS
+# DIRECTIONS
 
 "image_editing/image_manip.c" contains the essential image editing functions, implemented manually. They are:
     Rotation

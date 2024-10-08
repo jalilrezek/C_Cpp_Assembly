@@ -1,4 +1,4 @@
-DIRECTIONS
+# DIRECTIONS
 
 "game_execution/Game.cpp" contains the essential game logic.
 
@@ -13,13 +13,13 @@ The files for the various pieces in the "pieces" folder define their movement pa
 The remaining files account for various exception handling cases.
 
 
-TEAM
+# TEAM
 Jalil Rezek: jrezek1
 Amitesh Sridharan: asridha7
 Jake Hoffmann: jhoffm72
 Jiamin Li: jli409
 
-DESIGN
+# DESIGN
 The design of the program builds upon itself. At the heart is the Game object, which "has a" Board object; the Board object 
 itself has the pieces. The core functions of the program are implemented in Game.cpp, however; but many necessary helper 
 functions are implemented in Board.cpp. For instance, moving pieces across the board, promotion, and other tasks requiring
