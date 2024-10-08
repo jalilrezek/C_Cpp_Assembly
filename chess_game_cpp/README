@@ -1,14 +1,14 @@
 DIRECTIONS
 
-Game.cpp contains the essential game logic.
+"game_execution/Game.cpp" contains the essential game logic.
 
-Board.cpp contains functions necessary for adding pieces, removing them, and other core functionalities.
+"game_board/Board.cpp" contains functions necessary for adding pieces, removing them, and other core functionalities.
 
-main.cpp is responsible for running a game.
+"game_execution/main.cpp" is responsible for running a game.
 
-Terminal.h offers a decorated board (aesthetically pleasing user interface).
+"game_execution/Terminal.h" offers a decorated board (aesthetically pleasing user interface).
 
-The files for the various pieces define their movement patterns. "Mystery.h" allows a mystery piece that moves in a fashion unknown to the program, leveraging inheritance and OOP principles.
+The files for the various pieces in the "pieces" folder define their movement patterns. "Mystery.h" allows a mystery piece that moves in a fashion unknown to the program, leveraging inheritance and OOP principles.
 
 The remaining files account for various exception handling cases.
 
